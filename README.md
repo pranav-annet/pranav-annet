@@ -74,7 +74,7 @@ Currently transitioning into the role of **Senior AI Systems Engineer** at Apex 
 
 ## Key Projects
 
-### 🔐 Live Secure — Enterprise Web Platform
+### 🔐 Secure Live
 *Apex Group Ltd — Real Assets*
 
 An enterprise-grade ESG and real assets management platform with robust security, role-based access, and data analytics capabilities.
@@ -88,11 +88,11 @@ An enterprise-grade ESG and real assets management platform with robust security
 - Developed a **Super Admin module** to manage client access and enable platform features by business vertical
 - Delivered demo-ready updates, handled production fixes, and drove system enhancements and code optimization
 
-**Stack:** Vue.js · Vuex · Node.js · Fastify · PostgreSQL · Docker · Element UI
+**Stack:** Vue.js · Vuex · Node.js · Fastify · Mongodb · Firebase · Bootstrap
 
 ---
 
-### 📊 4See Analytics — DAP Integration (RET DAP Demo / RET DAP API)
+### 📊 4See Analytics — DAP Integration
 *Apex Group Ltd — Real Assets*
 
 Integration of the 4See Analytics (DAP) application into the Live Secure platform, extending its data and analytics capabilities for real estate stakeholders.
@@ -103,7 +103,7 @@ Integration of the 4See Analytics (DAP) application into the Live Secure platfor
 - Managed full project setup with **Docker** for consistent environment configuration
 - Applied UI fixes and visual enhancements on DAP to align with Secure platform standards
 
-**Stack:** Vue.js · Fastify · PostgreSQL · Firebase · Docker
+**Stack:** React.js · Fastify · PostgreSQL · Docker
 
 ---
 
@@ -113,19 +113,8 @@ Integration of the 4See Analytics (DAP) application into the Live Secure platfor
 |---|---|---|
 | 🔍 System Debugging | 👥 Code Reviews | 🎓 Mentoring Juniors |
 | ⚙️ Code Optimization | 🏗️ Feature Ownership | 🔗 API Design & Integration |
-| 📐 Object Oriented Programming | 🔒 Role-Based Access Control | 🌱 ESG Platform Development |
+| ⚡ Performance Optimization | 🔒 Improvise Architecture  | 🌱 ESG Platform Development |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav-annet&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=1a1a2e&icon_color=1a1a2e&text_color=333333&cache_seconds=86400)](https://github.com/pranav-annet)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-annet&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=1a1a2e&text_color=333333&cache_seconds=86400)](https://github.com/pranav-annet)
-
-</div>
 
 ---
 
